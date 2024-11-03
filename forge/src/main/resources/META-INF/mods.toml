@@ -6,10 +6,10 @@ license = "Insert License Here"
 [[mods]]
 modId = "examplemod"
 version = "${0.0.1}"
-displayName = "Example Mod"
-authors = "Me!"
+displayName = "Create: "
+authors = "Curly Fries"
 description = '''
-This is an example description! Tell everyone what your mod is about!
+A Create Mod addon that adds.
 '''
 logoFile = "icon.png"
 
