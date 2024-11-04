@@ -6,7 +6,7 @@ license = "Insert License Here"
 [[mods]]
 modId = "examplemod"
 version = "${0.0.1}"
-displayName = "Create: "
+displayName = "Create: Creatingness"
 authors = "Curly Fries"
 description = '''
 A Create Mod addon that adds.
